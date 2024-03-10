@@ -1,0 +1,12 @@
+.link{
+    text-decoration: none;
+    color: inherit;
+    border: solid 1px;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+.link:hover{
+    background-color: black;
+    color: white;
+}

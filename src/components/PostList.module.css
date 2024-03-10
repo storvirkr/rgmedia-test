@@ -1,0 +1,27 @@
+.postList {
+    margin-top: 20px;
+  }
+  .pagination {
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+  }
+.link {
+    text-decoration: none;
+    color: inherit; 
+  }
+  .post{
+    border: solid 1px;
+    border-radius: 5px;
+    margin: 7px;
+    padding: 7px;
+  }
+
+  .post:hover{
+    background-color: rgb(6, 6, 6);
+    color: white;
+  }
+
+  h2{
+    margin: 7px;
+  }
