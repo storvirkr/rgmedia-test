@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/rgmedia-test/static/css/main.7af8b614.css",
+    "main.js": "/rgmedia-test/static/js/main.4bede09c.js",
+    "index.html": "/rgmedia-test/index.html",
+    "main.7af8b614.css.map": "/rgmedia-test/static/css/main.7af8b614.css.map",
+    "main.4bede09c.js.map": "/rgmedia-test/static/js/main.4bede09c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7af8b614.css",
+    "static/js/main.4bede09c.js"
+  ]
+}
